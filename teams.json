@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:29:58.361869+00:00",
+  "updatedAt": "2026-09-22T02:31:27.350034+00:00",
   "competitions": [
     "WC",
     "CL",
@@ -1693,7 +1693,7 @@
       "name": "Le Mans FC",
       "shortName": "Le Mans",
       "tla": "LMF",
-      "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+      "crest": "https://crests.football-data.org/535.png",
       "area": {
         "id": 2081,
         "name": "France",
