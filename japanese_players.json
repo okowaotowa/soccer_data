@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:21:24.574237+00:00",
+  "updatedAt": "2026-11-14T10:47:37.275569+00:00",
   "source": "API-Football",
   "teamCount": 16,
   "playerCount": 20,
@@ -37,85 +37,85 @@
       "teamId": 9136,
       "name": "Amadora",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-10T11:27:51.451282+00:00"
+      "updatedAt": "2026-11-14T10:39:34.323992+00:00"
     },
     {
       "teamId": 682,
       "name": "AZ",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-10T11:29:01.619914+00:00"
+      "updatedAt": "2026-11-14T10:40:44.266538+00:00"
     },
     {
       "teamId": 81,
       "name": "Barça",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-10T11:29:08.456912+00:00"
+      "updatedAt": "2026-11-14T10:40:51.278310+00:00"
     },
     {
       "teamId": 5721,
       "name": "Bodø/Glimt",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-10T11:29:36.446846+00:00"
+      "updatedAt": "2026-11-14T10:41:19.265320+00:00"
     },
     {
       "teamId": 12,
       "name": "Bremen",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:11:29.024052+00:00"
+      "updatedAt": "2026-11-14T10:41:54.274524+00:00"
     },
     {
       "teamId": 397,
       "name": "Brighton Hove",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:11:50.014440+00:00"
+      "updatedAt": "2026-11-14T10:42:15.276364+00:00"
     },
     {
       "teamId": 5529,
       "name": "CD Nacional",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:12:39.022251+00:00"
+      "updatedAt": "2026-11-14T10:43:04.282130+00:00"
     },
     {
       "teamId": 558,
       "name": "Celta",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:12:46.035398+00:00"
+      "updatedAt": "2026-11-14T10:43:11.274946+00:00"
     },
     {
       "teamId": 1076,
       "name": "Coventry City",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:13:21.020641+00:00"
+      "updatedAt": "2026-11-14T10:43:46.287661+00:00"
     },
     {
       "teamId": 560,
       "name": "Deportivo",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:13:42.035294+00:00"
+      "updatedAt": "2026-11-14T10:44:07.273882+00:00"
     },
     {
       "teamId": 342,
       "name": "Derby County",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:13:49.018661+00:00"
+      "updatedAt": "2026-11-14T10:44:14.271167+00:00"
     },
     {
       "teamId": 719,
       "name": "Elversberg",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:14:10.018096+00:00"
+      "updatedAt": "2026-11-14T10:44:35.293882+00:00"
     },
     {
       "teamId": 5531,
       "name": "Famalicão",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:14:45.039567+00:00"
+      "updatedAt": "2026-11-14T10:45:10.276000+00:00"
     },
     {
       "teamId": 613,
       "name": "Fenerbahçe",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-11T11:14:52.018556+00:00"
+      "updatedAt": "2026-11-14T10:45:17.273135+00:00"
     },
     {
       "teamId": 675,
