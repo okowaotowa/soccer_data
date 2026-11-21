@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T12:01:46.582713+00:00",
+  "updatedAt": "2026-11-21T11:31:45.685034+00:00",
   "source": "API-Football",
   "teamCount": 16,
   "playerCount": 20,
@@ -61,67 +61,67 @@
       "teamId": 12,
       "name": "Bremen",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-17T12:08:01.428631+00:00"
+      "updatedAt": "2026-11-21T11:24:10.637618+00:00"
     },
     {
       "teamId": 397,
       "name": "Brighton Hove",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-17T12:08:22.421959+00:00"
+      "updatedAt": "2026-11-21T11:24:31.644931+00:00"
     },
     {
       "teamId": 5529,
       "name": "CD Nacional",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-17T12:09:11.506809+00:00"
+      "updatedAt": "2026-11-21T11:25:20.640154+00:00"
     },
     {
       "teamId": 558,
       "name": "Celta",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-17T12:09:18.430320+00:00"
+      "updatedAt": "2026-11-21T11:25:27.654043+00:00"
     },
     {
       "teamId": 1076,
       "name": "Coventry City",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:55:39.366960+00:00"
+      "updatedAt": "2026-11-21T11:26:02.647450+00:00"
     },
     {
       "teamId": 560,
       "name": "Deportivo",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:56:00.359598+00:00"
+      "updatedAt": "2026-11-21T11:26:23.647696+00:00"
     },
     {
       "teamId": 342,
       "name": "Derby County",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:56:07.367032+00:00"
+      "updatedAt": "2026-11-21T11:26:30.657823+00:00"
     },
     {
       "teamId": 719,
       "name": "Elversberg",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:56:28.371451+00:00"
+      "updatedAt": "2026-11-21T11:26:51.649447+00:00"
     },
     {
       "teamId": 5531,
       "name": "Famalicão",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:57:03.370322+00:00"
+      "updatedAt": "2026-11-21T11:27:26.649408+00:00"
     },
     {
       "teamId": 613,
       "name": "Fenerbahçe",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:57:10.369055+00:00"
+      "updatedAt": "2026-11-21T11:27:33.651078+00:00"
     },
     {
       "teamId": 675,
       "name": "Feyenoord",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:57:17.368451+00:00"
+      "updatedAt": "2026-11-21T11:27:40.654158+00:00"
     },
     {
       "teamId": 10601,
@@ -133,7 +133,7 @@
       "teamId": 19,
       "name": "Frankfurt",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:57:31.367152+00:00"
+      "updatedAt": "2026-11-21T11:27:54.655718+00:00"
     },
     {
       "teamId": 44,
@@ -145,13 +145,13 @@
       "teamId": 2,
       "name": "Hoffenheim",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:58:48.369461+00:00"
+      "updatedAt": "2026-11-21T11:29:11.652608+00:00"
     },
     {
       "teamId": 7,
       "name": "HSV",
       "message": "API error: access: Your account is suspended, check on https://dashboard.api-football.com.",
-      "updatedAt": "2026-11-18T11:58:55.368194+00:00"
+      "updatedAt": "2026-11-21T11:29:18.652554+00:00"
     },
     {
       "teamId": 349,
